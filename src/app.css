@@ -109,3 +109,5 @@ input[type],input:not([type]){width:100%;min-height:50px;border-radius:14px;bord
 .bar.big{height:20px;margin:12px 0 6px}.bar.big i{background:linear-gradient(90deg,#f2c94c,#ffb23f)}.mfoot{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;font-size:15px}.mfoot span{color:var(--soft)}
 .reward.cash{background:light-dark(#fff1c9,#3b2f12)}
 .payrow{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap;padding:10px 12px;margin:0 0 10px;border-radius:14px;background:light-dark(#fff8e1,#2e2a14)}.due{color:var(--bad);font-weight:800}.paybtns{display:flex;gap:6px;align-items:center}.btn.sm{min-height:44px;font-size:16px;padding:6px 14px;box-shadow:0 3px 0 var(--line)}
+.dots i.h{background:var(--sun)}.opt[disabled]{opacity:.75;box-shadow:0 2px 0 var(--line);transform:translateY(3px)}.feedback.retry{background:light-dark(#fff1c9,#3b2f12)}.feedback.retry h3{color:var(--ink)}
+.opts .opt:nth-child(5):last-child{grid-column:1/-1}
