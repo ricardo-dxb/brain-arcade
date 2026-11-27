@@ -1,0 +1,1 @@
+{"name": "Brain Arcade", "short_name": "Brain Arcade", "start_url": "./", "display": "standalone", "background_color": "#5ec8f2", "theme_color": "#5ec8f2", "icons": [{"src": "icon-180.png", "sizes": "180x180", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
