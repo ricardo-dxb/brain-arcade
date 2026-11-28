@@ -1,5 +1,5 @@
 import os, json
-css=open('app.css').read(); core=open('gens.js').read()+'\n'+open('hard.js').read()+'\n'+open('sci.js').read()+'\n'+open('pers.js').read()+'\n'+open('app.js').read()
+css=open('app.css').read(); core=open('gens.js').read()+'\n'+open('hard.js').read()+'\n'+open('sci.js').read()+'\n'+open('dinoart.js').read()+'\n'+open('dino.js').read()+'\n'+open('pers.js').read()+'\n'+open('app.js').read()
 FONTS='https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;700;800&display=swap'
 def page(standalone):
     js='{\nconst STANDALONE='+('true' if standalone else 'false')+';\n'+core+'\n}'
